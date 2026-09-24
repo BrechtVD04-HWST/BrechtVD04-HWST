@@ -4,7 +4,7 @@
 
 I'm a Student in Front end Webdevelopment at Howest. I'm passionate about 3D modeling and just doing all sorts of things. 🖥️🛠️
 
-_And more or less a car fanatic with a touch of spectrum specialities. ✨ 🏎️_
+_And more or less an automotive fanatic with a touch of spectrum specialities. ✨ 🏎️_
 
 <!--
 ## 📫 How to reach me
