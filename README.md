@@ -1,6 +1,6 @@
 ## Hello👋
 
-﻿# I'm Brecht Van Damme👋
+﻿### I'm Brecht Van Damme👋
 
 I'm a Student in Front end Webdevelopment at Howest. A passionate 3D modeling hobbyist, graphic designer (they say, idk, not a big fan of it but oh well), Aspiring webdeveloper and just doing a bit of this and a bit of that.🖥️🛠️
 
