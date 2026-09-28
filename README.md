@@ -6,7 +6,7 @@ I'm a Student in Front end Webdevelopment at Howest. A passionate 3D modeling ho
 
 _And more or less an automotive fanatic with a touch of spectrum specialities. ✨ 🏎️_
 
--# _And pretty much a human equivalent of a Swiss army knife :D_
+_And pretty much a human equivalent of a Swiss army knife :D_
 
 todeloo! 
 <!--
